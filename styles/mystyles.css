@@ -32,7 +32,7 @@ p {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 580px;
+    width: 100%;
 }
 /* new font details for footer on index and about me pages*/
 .ct {
@@ -52,4 +52,8 @@ p {
 /*different font weight for my big name on the center of the index and about pages*/ 
 .smaller-text {
     font-weight: lighter;
+}
+
+@media screen {
+    
 }
