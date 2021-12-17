@@ -46,9 +46,12 @@ li {
     padding: 22px;
 }
 /*actual styling of the words "tableau home about" in the nav links*/
-a {
+.a {
     display: block;
     padding: 8px;
+}
+/*fixing appearance of all links on page*/
+a {
     color: black;
     text-decoration: none;
 }
