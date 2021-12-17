@@ -53,3 +53,10 @@ p {
 .smaller-text {
     font-weight: lighter;
 }
+/*overwriting link color and hover color in order to add on page anchors that you can see*/
+a {
+    color: #D6D5CB;
+}
+a:hover{
+    color: grey;
+}
